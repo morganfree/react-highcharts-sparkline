@@ -13,6 +13,6 @@ Rewrite of the Highcharts sparkline chart demo to React
 ```
 git clone https://github.com/morganfree/react-highcharts-sparkline.git
 cd react-highcharts-sparkline && npm i
-npm run webpack
+npm run build
 ```
 Run ```index.html``` locally in your browser
