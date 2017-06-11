@@ -1,13 +1,13 @@
 {
   "name": "react-sparkline",
   "version": "1.0.0",
-  "description": "",
+  "description": "Rewrite Highcharts sparkline chart demo to React",
   "main": "app.js",
   "scripts": {
     "build": "./node_modules/.bin/webpack"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["highcharts", "react", "sparkline"],
+  "author": "Sebastian Domas",
   "license": "ISC",
   "dependencies": {
     "highcharts": "5.0.12",
